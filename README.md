@@ -1,18 +1,13 @@
-### Hi there 👋
-n
-![momomomoon GitHub stats](https://github.com/momomomoon/api?username=momomomoon&theme=dark&show_icons=true)
 
-<!--
-**momomomoon/momomomoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align = center>
 
-Here are some ideas to get you started:
+## github stats
+![momomomoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=momomomoon&theme=dark&show_icons=true)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## language
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<br>
+ 
+</div>
