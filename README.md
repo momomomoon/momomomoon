@@ -3,7 +3,7 @@
 ---
 ### | "Welcome" |
 
-#### | "Season" |
+#### | "History" |
 <div> | 22.03 ~ ing: "Hello World" </div>
 | 22.10 ~ ing: [Project] FrontEnd_Web
 
