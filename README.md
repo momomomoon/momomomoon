@@ -5,7 +5,6 @@
 
 #### | "History" |
 <div> | 22.03 ~ ing: "Hello World" </div>
-| 22.10 ~ ing: [Project] FrontEnd_Web
 
 #### | "Friends" |
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-7F52FF?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JSP-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> 
