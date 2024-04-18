@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Dart-20232a.svg?style=for-the-badge&logo=Dart&logoColor=0175C2" /> 
 
 
-### \\(etc)c
+### \\(etc)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ansdj1908)](https://solved.ac/ansdj1908/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momomomoon&layout=compact)
  
