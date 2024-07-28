@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Csharp-20232a.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-20232a.svg?style=for-the-badge&logo=Go&logoColor=white" />
+<img src="https://img.shields.io/badge/godot-20232a.svg?style=for-the-badge&logo=GodotEngine&logoColor=white" />
 <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-20232a.svg?style=for-the-badge&logo=Dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=white" />
