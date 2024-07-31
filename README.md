@@ -7,15 +7,13 @@
 <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Csharp-20232a.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/godot-20232a.svg?style=for-the-badge&logo=GodotEngine&logoColor=white" />
 <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-20232a.svg?style=for-the-badge&logo=Dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/.net-20232a.svg?style=for-the-badge&logo=dotnet&logoColor=white" /> 
 <img src="https://img.shields.io/badge/blazor-20232a.svg?style=for-the-badge&logo=blazor&logoColor=white" />
 <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=white" /> 
-<img src="https://img.shields.io/badge/unrealengine-20232a.svg?style=for-the-badge&logo=unrealengine&logoColor=white" /> 
+<img src="https://img.shields.io/badge/unrealengine-20232a.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/godot-20232a.svg?style=for-the-badge&logo=GodotEngine&logoColor=white" />
 <img src="https://img.shields.io/badge/opengl-20232a.svg?style=for-the-badge&logo=opengl&logoColor=white" /> 
 <img src="https://img.shields.io/badge/git-20232a.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=white" />
