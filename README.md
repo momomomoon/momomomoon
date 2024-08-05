@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/C++-20232a.svg?style=for-the-badge&logo=Cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Csharp-20232a.svg?style=for-the-badge&logo=csharp&logoColor=white" />
 <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-20232a.svg?style=for-the-badge&logo=Go&logoColor=white" />
 <img src="https://img.shields.io/badge/.net-20232a.svg?style=for-the-badge&logo=dotnet&logoColor=white" /> 
 <img src="https://img.shields.io/badge/blazor-20232a.svg?style=for-the-badge&logo=blazor&logoColor=white" />
 <img src="https://img.shields.io/badge/unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=white" /> 
